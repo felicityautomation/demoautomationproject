@@ -1,0 +1,16 @@
+{
+	"credentials": [
+		{
+			"user": "test@gmail.comcom",
+			"password": "Welcome1"
+		},
+		{
+			"user": "test1@gmail.comcom",
+			"password": "Welcome2"
+		},
+		{
+			"user": "test2@gmail.comcom",
+			"password": "Welcome3"
+		}
+	]
+}
